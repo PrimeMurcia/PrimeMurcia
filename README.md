@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Prime Alyn Murcia | Red Team Operator</h1>
+<h1 align="center">👨‍💻 Prime Alyn Murcia | Purple Team Operator</h1>
 <h3 align="center">A cybersecurity specialist dedicated to breaking & securing systems</h3>
 
 <p align="center">
