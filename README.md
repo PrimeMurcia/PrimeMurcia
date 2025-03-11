@@ -1,5 +1,5 @@
 <h1 align="center">🛠️ Prime Alyn Murcia | <span style="color:#00ff00;">Purple Team Operator</span> 🛠️</h1>
-<h3 align="center">⛓️ Cybersecurity Specialist | Exploiting & Fortifying Systems ⛓️</h3>
+<h3 align="center">⛓️ Cybersecurity Specialist | Network & Server Administrator ⛓️</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Red+Team+Operator+%E2%9C%94;Web+Application+Exploiter+%E2%9C%94;Cyber+Threat+Hunter+%E2%9C%94;Kubernetes+Security+%E2%9C%94;Network+Intrusion+Expert+%E2%9C%94">
@@ -9,7 +9,7 @@
 
 <h3 align="left">👾 Who Am I?</h3>
 <ul>
-<h3 align="left">👾 Who Am I?</h3> <ul> <li>🩸 <b>Red Teamer</b> — Exploiting networks & web apps with precision</li> <li>🛡️ <b>Threat Hunter</b> — Detecting adversaries with <b>Wazuh, Suricata, & ELK</b></li> <li>🔥 <b>Automating Cyber </b> — Using <b>Python, Bash, & Ansible</b></li> <li>🌐 <b>Network Engineer & Security Administrator</b> — 4+ years securing and optimizing networks</li> <li>🔧 <b>System Admin & DevSecOps Engineer</b> — Managing infrastructure with <b>Ansible, CI/CD, and Kubernetes</b></li> <li>☁️ <b>Cloud & Virtualization Expert</b> — Experience with <b>Native Hypervisors, HCI, AWS, Linode</b></li> </ul>
+<h3 align="left">👾 Who Am I?</h3> <ul> <li>🩸 <b>Red Teamer</b> — Exploiting networks & web apps with precision</li> <li>🛡️ <b>Threat Hunter</b> — Detecting adversaries with <b>Wazuh, Suricata, & ELK</b></li> <li>🔥 <b>Automating Cyber </b> — Using <b>Python, Bash, & Ansible</b></li> <li>🌐 <b>Network Engineer & Security Administrator</b> — 4+ years securing and optimizing networks</li> <li>🔧 <b>System Admin & DevSecOps Engineer</b> — Managing infrastructure with <b>Ansible, CI/CD, <b>Docker, CI/CD and Kubernetes</b></li> <li>☁️ <b>Cloud & Virtualization Expert</b> — Experience with <b>Native Hypervisors, HCI, AWS, Linode</b></li> </ul>
 </ul>
 
 ---
