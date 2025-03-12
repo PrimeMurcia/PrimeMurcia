@@ -9,7 +9,7 @@
 
 <h3 align="left">👾 Who Am I?</h3>
 <ul>
-<h3 align="left">👾 Who Am I?</h3> <ul> <li>🩸 <b>Red Teamer</b> — Exploiting networks & web apps with precision</li> <li>🛡️ <b>Threat Hunter</b> — Detecting adversaries with <b>Wazuh, Suricata, & ELK</b></li> <li>🔥 <b>Automating</b> — Using <b>Python, Bash, & Ansible</b></li> <li>🌐 <b>Network Engineer & Security Administrator</b> — 4+ years securing and optimizing networks</li> <li>🔧 <b>System Admin & DevSecOps Engineer</b> — Managing infrastructure with <b>Ansible, CI/CD, <b>Docker, CI/CD and Kubernetes</b></li> <li>☁️ <b>Cloud & Virtualization Expert</b> — Experience with <b>Native Hypervisors, HCI, AWS, Linode</b></li> </ul>
+<h3 align="left">👾 Who Am I?</h3> <ul> <li>🩸 <b>Red Teamer</b> — Exploiting networks & web apps with precision</li> <li>🛡️ <b>Threat Hunter</b> — Detecting adversaries with <b>Wazuh, Suricata, & ELK</b></li> <li>🔥 <b>Automating</b> — Using <b>Python, Bash, & Ansible</b></li> <li>🌐 <b>Network Engineer & Security Administrator</b> — 4+ years securing and optimizing networks</li> <li>🔧 <b>System Admin & DevSecOps Engineer</b> — Managing infrastructure with <b>Nginx, <b>Reverse Proxy, <b>Ansible, CI/CD, <b>Docker, CI/CD and Kubernetes</b></li> <li>☁️ <b>Cloud & Virtualization Expert</b> — Experience with <b>Native Hypervisors, HCI, AWS, Linode</b></li> </ul>
 </ul>
 
 ---
