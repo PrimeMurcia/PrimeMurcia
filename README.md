@@ -2,7 +2,7 @@
 <h3 align="center">⛓️ Cybersecurity Specialist | Network & Server Administrator ⛓️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Red+Team+Operator+%E2%9C%94;development+security+and+operations+%E2%9C%94;Cyber+Threat+Hunter+%E2%9C%94;Kubernetes+Security+%E2%9C%94;Network+Intrusion+Expert+%E2%9C%94">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Red+Team+Operator+%E2%9C%94;Development+Security+and+Operations+%E2%9C%94;Network+Security+%E2%9C%94;Server+Administrator+%E2%9C%94;Network+Administrator+%E2%9C%94">
 </p>
 
 ---
