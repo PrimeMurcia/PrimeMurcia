@@ -11,7 +11,7 @@
 <ul>
   <li>🩸 <b>Red Teamer</b> — Exploiting networks & web apps with precision</li>
   <li>🛡️ <b>Threat Hunter</b> — Detecting adversaries with <b>Wazuh, Suricata, & ELK</b></li>
-  <li>🔥 <b>Automating</b> — Using <b>Python, Bash, & Ansible</b></li>
+  <li>🔥 <b>Automation</b> — Using <b>Python, Bash, & Ansible</b></li>
   <li>🌐 <b>Network Engineer & Security Administrator</b> — 4+ years securing and optimizing networks, managing <b>firewalls, switches, XDR, IPS, EDR, & WAF</b></li>
   <li>🔧 <b>System Admin & DevSecOps Engineer</b> — Managing infrastructure with <b>Nginx, Reverse Proxy, Ansible, CI/CD, Docker, and Kubernetes</b></li>
   <li>☁️ <b>Cloud & Virtualization Expert</b> — Experience with <b>Native Hypervisors, HCI, AWS, Linode</b></li>
